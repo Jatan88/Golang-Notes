@@ -29,6 +29,7 @@ func main() {
 	// no var style
 	num := 5
 	fmt.Println(num)
+	fmt.Printf("Variable type: %T \n", num)
 
 	fmt.Println(LoginToken)
 	fmt.Printf("Variable type: %T \n", LoginToken)
