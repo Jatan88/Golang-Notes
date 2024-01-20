@@ -1,4 +1,8 @@
 go 1.21.6
 
-use ./01hello
-use ./02variables
+use (
+	./01hello
+	./02variables
+	./03userinput
+	./04conversion
+)
