@@ -10,4 +10,6 @@ use (
 	./07arrays
 	./08slice
 	./09maps
+	./10structs
+	./11ifelse
 )
