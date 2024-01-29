@@ -12,4 +12,8 @@ use (
 	./09maps
 	./10structs
 	./11ifelse
+	./12switch
+	./13loops
+	./14functions
+	./15methods
 )
